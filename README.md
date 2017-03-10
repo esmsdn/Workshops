@@ -7,9 +7,10 @@ equipo de Technical Evangelist en España
 | Fecha       | Workshop                                                                                      |
 |-------------|-----------------------------------------------------------------------------------------------|
 | 2016 - 2017 | [Workshop Xamarin is Coming](https://github.com/xamarin/dev-days-labs/tree/master/HandsOnLab) |
-| 27/03/2017  | Docker Birthday                                                                               |
+| 27/03/2017  | [Docker Birthday](DockerBirthday)                                                                               |
 
 Recursos adicionales
+--------------------
 
 Aquí tienes algunos recursos adicionales para realizar los workshops:
 
