@@ -35,7 +35,7 @@ Prerrequisitos
 
         -   [PuTTY](http://www.putty.org/)
 
-    -   Linux o OS X
+    -   Linux u OS X
 
 Laboratorio
 -----------
