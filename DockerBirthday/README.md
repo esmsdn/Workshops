@@ -12,7 +12,7 @@ Prerrequisitos
 
 ### Laboratorio: Introduction to Windows Containers and Docker Stack
 #### Opción 1 - Windows 10
--   PC con [Windows 10 (Anniversary Update).](https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10)
+-   PC con [Windows 10 (Anniversary Update) Pro o Enterprise.](https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10)
 -   Instalar [Docker for Windows](https://docs.docker.com/docker-for-windows/). Asegurate que usas Windows Containers. Puedes modificarlo pulsando sobre
 
 #### Opción 2 - Windows Server 2016
@@ -27,7 +27,7 @@ Restart-Computer -Force
 
 #### Opción 3 - Microsoft Azure
 -   VM con Windows Server 2016 en Microsoft Azure. Para ello, crea una máquina virtual en Microsoft Azure con la imagen "[Windows Server 2016 Datacenter - with Containers](https://azure.microsoft.com/en-us/marketplace/partners/microsoft/windowsserver2016datacenterwithcontainers/)". Se recomienda el tamaño DS2_V2 o superior.
-*Si no dispones de una suscripción a Microsoft Azure, escribe a* [esmsdn\@microsoft.com](mailto:esmsdn@microsoft.com?subject=Microsoft%20Azure%20for%20Docker%20Birthday) *para conseguir una prueba gratuita.*
+*Si no dispones de una suscripción a Microsoft Azure, escribe a* [esmsdn@microsoft.com](mailto:esmsdn@microsoft.com?subject=Microsoft%20Azure%20for%20Docker%20Birthday) *para conseguir una prueba gratuita.*
 
 #### Común
 -   Descargar las siguientes imágenes:
@@ -41,7 +41,7 @@ docker pull microsoft/dotnet:1.1-sdk-msbuild-nanoserver
 ### Laboratorio: Docker Swarm Mode in Azure Container Service
 -   PC propio
 -   Suscripción de Microsoft Azure
-*Si no dispones de una suscripción a Microsoft Azure, escribe a* [esmsdn\@microsoft.com](mailto:esmsdn@microsoft.com?subject=Microsoft%20Azure%20for%20Docker%20Birthday) *para conseguir una prueba gratuita.*
+*Si no dispones de una suscripción a Microsoft Azure, escribe a* [esmsdn@microsoft.com](mailto:esmsdn@microsoft.com?subject=Microsoft%20Azure%20for%20Docker%20Birthday) *para conseguir una prueba gratuita.*
 -   Clúster de [Azure Container Service](https://azure.microsoft.com/en-us/services/container-service/) con Docker Swarm Mode
     -   [Creación de un clúster de Azure Container Service con Docker Swarm Mode](https://github.com/esmsdn/Workshops/blob/master/DockerBirthday/Azure%20Container%20Service%20con%20Docker%20Swarm%20Mode.md)
 -   Herramienta para realizar conexión SSH:
