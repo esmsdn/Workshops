@@ -22,17 +22,19 @@ Prerrequisitos
 
 #### Opción 1 - Windows 10
 
-### PC con [Windows 10 (Anniversary Update).](https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10)
+-   PC con [Windows 10 (Anniversary
+    Update).](https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10)
 
-### Instalar [Docker for Windows](https://docs.docker.com/docker-for-windows/).
-
-### Asegurate que usas Windows Containers. Puedes modificarlo pulsando sobre 
+-   Instalar [Docker for Windows](https://docs.docker.com/docker-for-windows/).
+    Asegurate que usas Windows Containers. Puedes modificarlo pulsando sobre
 
 #### Opción 2 - Windows Server 2016
 
-### Servidor con [Windows Server 2016](https://www.microsoft.com/en-us/cloud-platform/windows-server).
+-   Servidor con [Windows Server
+    2016](https://www.microsoft.com/en-us/cloud-platform/windows-server).
 
-### Instalar [Docker](https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-server):
+-   Instalar
+    [Docker](https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-server):
 
 \`\`\`
 
@@ -46,13 +48,17 @@ Install-Module -Name DockerMsftProvider -Force
 
 #### Opción 3 - Microsoft Azure
 
-### VM con Windows Server 2016 en Microsoft Azure. Para ello, crea una máquina virtual en Microsoft Azure con la imagen "[Windows Server 2016 Datacenter - with Containers](https://azure.microsoft.com/en-us/marketplace/partners/microsoft/windowsserver2016datacenterwithcontainers/)": Se recomienda el tamaño DS\_V2 o superior.
+-   VM con Windows Server 2016 en Microsoft Azure. Para ello, crea una máquina
+    virtual en Microsoft Azure con la imagen "[Windows Server 2016 Datacenter -
+    with
+    Containers](https://azure.microsoft.com/en-us/marketplace/partners/microsoft/windowsserver2016datacenterwithcontainers/)":
+    Se recomienda el tamaño DS\_V2 o superior.
 
 ### *Si no dispones de una suscripción a Microsoft Azure, escribe a* [esmsdn\@microsoft.com](mailto:esmsdn@microsoft.com?subject=Microsoft%20Azure%20for%20Docker%20Birthday) *para conseguir una prueba gratuita.*
 
 #### Común
 
-### Descargar las siguientes imágenes:
+-   Descargar las siguientes imágenes:
 
 \`\`\`
 
