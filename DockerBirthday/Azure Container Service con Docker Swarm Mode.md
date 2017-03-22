@@ -2,7 +2,12 @@ Azure Container Service con Docker Swarm Mode
 =============================================
 Este template de Microsoft Azure crea un cluster de Azure Container Service con el orquestador Docker Swarm Mode. Es un template personalizado a partir de [ACS Engine](https://github.com/Azure/acs-engine).
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fesmsdn%2FWorkshops%2Fmaster%2FDockerBirthday%2FAzureDeploy%2Fazuredeploy.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fesmsdn%2FWorkshops%2Fmaster%2FDockerBirthday%2FAzureDeploy%2Fazuredeploy.json" target="_blank"><
+    img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fesmsdn%2FWorkshops%2Fmaster%2FDockerBirthday%2FAzureDeploy%2Fazuredeploy.json" target="_blank">
+    <img src="http://armviz.io/visualizebutton.png"/>
+</a>
 
 Pulsa sobre el botón “Deploy to Azure” y completa los campos necesarios para desplegar el servicio.
 
