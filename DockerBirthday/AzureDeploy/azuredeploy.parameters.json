@@ -1,0 +1,32 @@
+{
+  "agentpublicCount": {
+    "value": 2
+  },
+  "agentpublicEndpointDNSNamePrefix": {
+    "value": "dockerbirthdayspainagent"
+  },
+  "agentpublicSubnet": {
+    "value": "10.0.0.0/16"
+  },
+  "agentpublicVMSize": {
+    "value": "Standard_D1_v2"
+  },
+  "firstConsecutiveStaticIP": {
+    "value": "172.16.0.5"
+  },
+  "linuxAdminUsername": {
+    "value": "diego"
+  },
+  "masterEndpointDNSNamePrefix": {
+    "value": "dockerbirthdayspainmaster"
+  },
+  "masterSubnet": {
+    "value": "172.16.0.0/24"
+  },
+  "masterVMSize": {
+    "value": "Standard_D1_v2"
+  },
+  "sshRSAPublicKey": {
+    "value": ""
+  }
+}
