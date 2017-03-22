@@ -38,7 +38,7 @@ docker pull microsoft/mssql-server-windows-express
 docker pull microsoft/dotnet:1.1-sdk-msbuild-nanoserver
 ``` 
 
-### Laboratorio: Docker Swarm in Azure Container Service
+### Laboratorio: Docker Swarm Mode in Azure Container Service
 -   PC propio
 -   Suscripción de Microsoft Azure
 *Si no dispones de una suscripción a Microsoft Azure, escribe a* [esmsdn\@microsoft.com](mailto:esmsdn@microsoft.com?subject=Microsoft%20Azure%20for%20Docker%20Birthday) *para conseguir una prueba gratuita.*
@@ -54,6 +54,6 @@ Laboratorio
 -----------
 ### Laboratorio: Introduction to Windows Containers and Docker Stack
 1.  *Más próximamente*
-### Laboratorio: Docker Swarm in Azure Container Service
-1.  Conectar con un clúster de Azure Container Service con Docker Swarm
+### Laboratorio: Docker Swarm Mode in Azure Container Service
+1.  [Conectar con un clúster de Azure Container Service con Docker Swarm]()
 2.  *Más próximamente*
