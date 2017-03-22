@@ -26,7 +26,7 @@ Restart-Computer -Force
 ```
 
 #### Opción 3 - Microsoft Azure
--   VM con Windows Server 2016 en Microsoft Azure. Para ello, crea una máquina virtual en Microsoft Azure con la imagen "[Windows Server 2016 Datacenter - with Containers](https://azure.microsoft.com/en-us/marketplace/partners/microsoft/windowsserver2016datacenterwithcontainers/)". Se recomienda el tamaño DS\_V2 o superior.
+-   VM con Windows Server 2016 en Microsoft Azure. Para ello, crea una máquina virtual en Microsoft Azure con la imagen "[Windows Server 2016 Datacenter - with Containers](https://azure.microsoft.com/en-us/marketplace/partners/microsoft/windowsserver2016datacenterwithcontainers/)". Se recomienda el tamaño DS2_V2 o superior.
 *Si no dispones de una suscripción a Microsoft Azure, escribe a* [esmsdn\@microsoft.com](mailto:esmsdn@microsoft.com?subject=Microsoft%20Azure%20for%20Docker%20Birthday) *para conseguir una prueba gratuita.*
 
 #### Común

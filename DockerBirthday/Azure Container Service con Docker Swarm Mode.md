@@ -17,7 +17,8 @@ Consejos de despliegue
 ----------------------
 1.  Necesitas proveer una clave pública SSH RSA. Puedes crearla con [PuTTYgen](https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjztJXkn-rSAhVBFMAKHTAeDR4QFgg0MAI&url=http%3A%2F%2Fwww.putty.org%2F&usg=AFQjCNE0r1uUqUKy9FRz8-A1SvPozOKa4g&sig2=NVNoYtAA0LkH3rEujj9v9Q&bvm=bv.150475504,d.ZGg) o [ssh-keygen](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/ La clave tiene que tener el siguiente formato ```ssh-rsa AAAAB......```.
 2.  Una buena práctica es crear un grupo de recursos nuevo para cada Azure Container Service.
-3.  Los logs de instalación para los masters, agentes y jumpbox están en /var/log/azure/cluster-bootstrap.log.
+3.  Para las VM se recomienda un tamaño DS2_V2 o superior.
+4.  Los logs de instalación para los masters, agentes y jumpbox están en /var/log/azure/cluster-bootstrap.log.
 
 Recursos adicionales
 --------------------
