@@ -17,7 +17,7 @@ comando donde:
 -   **DNSNAME** es el nombre DNS que aparece en la IP pública anterior.
 -   **PRIVATEKEY** [opcional] es la ruta a la clave privada que corresponde a la clave pública que utilizaste al desplegar el clúster.
 ```
-ssh -L 2375:localhost:2375 -f -N [USERNAME]\@[DNSNAME] -p 2200
+ssh -L 2375:localhost:2375 -f -N [USERNAME]@[DNSNAME] -p 2200
 ```
 
 Crear un túnel SSH en Windows
@@ -25,7 +25,7 @@ Crear un túnel SSH en Windows
 Hay muchas maneras de establecer un túnel SSH en Windows. Puedes utilizar [Bash on Ubuntu on Windows](https://msdn.microsoft.com/es-es/commandline/wsl/about) y utilizar las instrucciones anteriores, o utilizar [PuTTY](http://www.putty.org/) como se muestra a continuación.
 
 Abre PuTTY e introduce la siguiente información:
--   Host Name: [USERNAME]\@[DNSNAME].
+-   Host Name: [USERNAME]@[DNSNAME].
     -   **USERNAME** es el nombre de usuario que utilizaste al desplegar el clúster.
     -   **DNSNAME** es el nombre DNS que aparece en la IP pública anterior.
 -   Port: 2200
