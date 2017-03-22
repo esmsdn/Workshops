@@ -43,7 +43,7 @@ docker pull microsoft/dotnet:1.1-sdk-msbuild-nanoserver
 -   Suscripción de Microsoft Azure
 *Si no dispones de una suscripción a Microsoft Azure, escribe a* [esmsdn\@microsoft.com](mailto:esmsdn@microsoft.com?subject=Microsoft%20Azure%20for%20Docker%20Birthday) *para conseguir una prueba gratuita.*
 -   Clúster de [Azure Container Service](https://azure.microsoft.com/en-us/services/container-service/) con Docker Swarm Mode
-    -   [Creación de un clúster de Azure Container Service con Docker Swarm Mode]()
+    -   [Creación de un clúster de Azure Container Service con Docker Swarm Mode](https://github.com/esmsdn/Workshops/blob/master/DockerBirthday/Azure%20Container%20Service%20con%20Docker%20Swarm%20Mode.md)
 -   Herramienta para realizar conexión SSH:
     -   Windows:
         -   [Bash on Ubuntu on Windows](https://msdn.microsoft.com/en-us/commandline/wsl/about)
@@ -55,5 +55,5 @@ Laboratorio
 ### Laboratorio: Introduction to Windows Containers and Docker Stack
 1.  *Más próximamente*
 ### Laboratorio: Docker Swarm Mode in Azure Container Service
-1.  [Conectar con un clúster de Azure Container Service con Docker Swarm](https://github.com/esmsdn/Workshops/blob/master/DockerBirthday/Conectar%20con%20un%20cl%C3%BAster%20de%20Azure%20Container%20Service%20con%20Docker%20Swarm.md)
+1.  [Conectar con un clúster de Azure Container Service con Docker Swarm](https://github.com/esmsdn/Workshops/blob/master/DockerBirthday/Conectar%20con%20Azure%20Container%20Service%20-%20Docker%20Swarm.md)
 2.  *Más próximamente*
