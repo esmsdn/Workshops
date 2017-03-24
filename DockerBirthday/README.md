@@ -25,6 +25,10 @@ Install-Module -Name DockerMsftProvider -Force
 Install-Package -Name docker -ProviderName DockerMsftProvider -Force
 Restart-Computer -Force
 ```
+-   Despues de reiniciarse deberas ejecutar el siguiente comando para instalar Docker Compose:
+```
+Invoke-WebRequest https://github.com/docker/compose/releases/download/1.11.1/docker-compose-Windows-x86_64.exe -UseBasicParsing -OutFile $env:ProgramFiles\docker\docker-compose.exe
+```
 
 #### Opción 3 - Microsoft Azure
 -   VM con Windows Server 2016 en Microsoft Azure. Para ello, crea una máquina virtual en Microsoft Azure con la imagen "[Windows Server 2016 Datacenter - with Containers](https://azure.microsoft.com/en-us/marketplace/partners/microsoft/windowsserver2016datacenterwithcontainers/)". Se recomienda el tamaño DS2_V2 o superior.
