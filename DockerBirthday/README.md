@@ -35,7 +35,6 @@ Invoke-WebRequest https://github.com/docker/compose/releases/download/1.11.1/doc
 *Si no dispones de una suscripción a Microsoft Azure, escribe a* [esmsdn@microsoft.com](mailto:esmsdn@microsoft.com?subject=Microsoft%20Azure%20for%20Docker%20Birthday) *para conseguir una prueba gratuita.*
 
 #### Común
--   Instalar [.NET Core](https://www.microsoft.com/net/download/core)
 -   Descargar las siguientes imágenes:
 
 ```
