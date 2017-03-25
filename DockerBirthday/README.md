@@ -38,9 +38,8 @@ Invoke-WebRequest https://github.com/docker/compose/releases/download/1.11.1/doc
 -   Descargar las siguientes imágenes:
 
 ```
-docker pull microsoft/windowsservercore
-docker pull microsoft/mssql-server-windows-express
-docker pull microsoft/dotnet:1.1-sdk-msbuild-nanoserver
+docker pull microsoft/dotnet-samples:dotnetapp-nanoserver
+docker pull microsoft/iis:nanoserver
 ``` 
 
 ### Laboratorio: Docker Swarm Mode in Azure Container Service
