@@ -20,7 +20,7 @@ De forma opcional, si utilizas MacOS podras utilizar [Visual Studio for Mac](htt
 
 
 ## Activación de Microsoft Azure
-Para poder gestionar el backend de la aplicación se hará uso de Microsoft Azure y su servicio Mobile App. Para ello, deberá activar su suscripción de Microsoft Azure. Puedes encontrar las instrucciones [aquí *COMPLETAR!!!*]()
+Para poder gestionar el backend de la aplicación se hará uso de Microsoft Azure y su servicio Mobile App. Para ello, deberá activar su suscripción de Microsoft Azure. Puedes encontrar las instrucciones [aquí](https://github.com/esmsdn/Workshops/tree/master/MicrosoftAzure).
 
 ## Comprueba que todo esta correcto
 Para comprobar que todo funciona correctamente para la formación, por favor, realiza las siguientes pruebas:
