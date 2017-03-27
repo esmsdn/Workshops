@@ -1,7 +1,7 @@
-Activación de Microsoft Azure vía Microsoft Imagine
+Activación de Microsoft Azure vía Visual Studio Dev Essentials
 ===============================
 
-Para poder realizar la activación de la suscripción de Microsoft Azure con Microsoft Imagine, ha
+Para poder realizar la activación de la suscripción de Microsoft Azure con Visual Studio Dev Essentials, ha
 de seguir los siguientes pasos.
 
 ## Crear cuenta en Visual Studio Dev Essentials
