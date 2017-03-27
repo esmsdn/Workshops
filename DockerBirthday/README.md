@@ -21,9 +21,15 @@ This content is made to celebrate the 4th [Docker](https://www.docker.com/) birt
 ## Learning more 
 
 [Windows Containers](https://docs.microsoft.com/en-us/virtualization/windowscontainers/about/) 
+
 [Azure Container Service](https://docs.microsoft.com/en-us/azure/container-service/) 
+
 [ACS Engine](https://github.com/Azure/acs-engine/blob/master/docs/swarmmode.md) 
+
 [ACS Engine - Swarm Mode](https://github.com/Azure/acs-engine/blob/master/docs/swarmmode.md) 
+
 [Docker](https://docs.docker.com/) 
+
 [Docker Swarm](https://docs.docker.com/swarm/overview/) 
+
 [Docker Compose](https://docs.docker.com/compose/overview/) 
