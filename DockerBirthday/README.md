@@ -5,14 +5,14 @@ This content is made to celebrate the 4th [Docker](https://www.docker.com/) birt
 ## Requirements 
 
 -  Bring your own PC 
--  [Requirements Windows Containers Lab](Requirements Windows Containers Lab.md) 
--  [Requirements Docker Swarm Mode in Azure Container Service Lab](Requirements Docker Swarm Mode in Azure Container Service Lab.md) 
+-  [Requirements Windows Containers Lab](https://github.com/esmsdn/Workshops/blob/master/DockerBirthday/Requirements%20Windows%20Containers%20lab.md) 
+-  [Requirements Docker Swarm Mode in Azure Container Service Lab](https://github.com/esmsdn/Workshops/blob/master/DockerBirthday/Requirements%20Docker%20Swarm%20Mode%20in%20Azure%20Container%20Service%20Lab.mdd) 
 
 ## Labs 
 
 -  [Windows Containers Lab](https://github.com/hopla-training/windows-labs/blob/master/iis-lab1.md) 
 -  [Docker Swarm Mode in Azure Container Service Lab](https://github.com/hopla-training/simplest-lab) 
--  [Connect to ACS swarm cluster](Connect to ACS swarm cluster.md) 
+ -  [Connect to ACS swarm cluster](https://github.com/esmsdn/Workshops/blob/master/DockerBirthday/Connect%20to%20ACS%20swarm%20cluster.md) 
 
 ## More labs 
 
