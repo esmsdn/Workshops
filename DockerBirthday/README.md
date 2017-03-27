@@ -11,8 +11,7 @@ This content is made to celebrate the 4th [Docker](https://www.docker.com/) birt
 ## Labs 
 
 -  [Windows Containers Lab](https://github.com/hopla-training/windows-labs/blob/master/iis-lab1.md) 
--  [Docker Swarm Mode in Azure Container Service Lab](https://github.com/hopla-training/simplest-lab) 
-  *  [Connect to ACS swarm cluster](https://github.com/esmsdn/Workshops/blob/master/DockerBirthday/Connect%20to%20ACS%20swarm%20cluster.md) 
+-  [Docker Swarm Mode in Azure Container Service Lab](https://github.com/hopla-training/simplest-lab). [Connect to ACS swarm cluster](https://github.com/esmsdn/Workshops/blob/master/DockerBirthday/Connect%20to%20ACS%20swarm%20cluster.md) 
 
 ## More labs 
 
