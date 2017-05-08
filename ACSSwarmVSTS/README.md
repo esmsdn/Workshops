@@ -1,4 +1,4 @@
-#capsideLAB: Azure Container Services - Docker Swarm – Visual Studio Team Services
+# #capsideLAB: Azure Container Services - Docker Swarm – Visual Studio Team Services
 
 This content is made to use in [#capsideLAB: Azure Container Services - Docker Swarm – Visual Studio Team Services](https://www.eventbrite.ca/e/entradas-capsidelab-azure-container-services-docker-swarm-visual-studio-team-services-33304105476) by [Capside](https://www.capside.com/) and [Microsoft](https://www.microsoft.com/es-es/).
 
