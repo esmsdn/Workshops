@@ -6,8 +6,10 @@ equipo de Technical Evangelist en España
 ## Workshop
 
 -  [Xamarin is Coming](https://github.com/xamarin/dev-days-labs/tree/master/HandsOnLab)
+-  [Xamarin HoL - Spent](https://github.com/esmsdn/XamarinHoL)
     -  [Preparación para workshops Xamarin y Microsoft Azure](XamarinIsComing)
 -  [Docker Birthday](DockerBirthday)
+-  [#capsideLAB: Azure Container Services - Docker Swarm – Visual Studio Team Services](https://github.com/esmsdn/Workshops/tree/master/ACSSwarmVSTS)
 -  [Bot Framework - Hands On Lab](https://github.com/DanyStinson/BigBotTheory)
 -  [Innovation Day](https://github.com/esmsdn/Innovation-Day)
     -  [Introduction to Internet of Things](https://github.com/esmsdn/Innovation-Day/tree/master/02.%20Internet%20of%20Things%20-%20Hands%20on%20Lab)
