@@ -12,7 +12,7 @@ To create a ACS Engine cluster using Docker Swarm mode as a orchestrator you nee
   1. Subscription: your subscription of Microsoft Azure
   2. Resource group: we recommend to create a new resource group
   3. Location: West Europe is the recommended location for Spain users.
-  4. Agent count: you have to select **1**
+  4. Agent count: you have to select **1 node**
   5. Agent Endpoint DNS: fill with an unique name like &quot;clusterdiego739agent&quot;
   6. Agent Subnet: the subnet for the agent nodes
   7. Agent VM Size: you could use Standard\_D2\_v2
