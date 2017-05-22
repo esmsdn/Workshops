@@ -22,7 +22,7 @@ To create a ACS Engine cluster using Docker Swarm mode as a orchestrator you nee
     11. Master Endpoint DNS: fill with an unique name like &quot;clusterdiego739master&quot;
     12. Master VM Size: you could use Standard\_D2\_v2
     13. Name Suffix: it´s OK
-    14. SSH Key: complete with your public SSH key
+    14. SSH Key: complete with your public SSH key with this format: ssh-rsa XXXX...XXXX
     15. Target Environment: it´s OK
 5. Accept the terms and confitions
 6. Click on &quot;Purchase&quot; button
