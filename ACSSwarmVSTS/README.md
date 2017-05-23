@@ -7,7 +7,7 @@ This content is made to use in [#capsideLAB: Azure Container Services - Docker S
 - Bring your own PC
 - [Microsoft Azure](https://azure.microsoft.com/) subscription
   - If you don´t have one, please, send an email to [esmsdn@microsoft.com](mailto:esmsdn@microsoft.com?subject=Suscripci%C3%B3n%20Microsoft%20Azure%20para%20%23capsideLAB) and ask for a trial.
-- [Visual Studio Team Services](https://www.visualstudio.com/team-services/) account
+- [Visual Studio Team Services](https://www.visualstudio.com/team-services/) account (It´s FREE!).
 - [Create a Docker Swarm cluster in Azure Container Service using the template](https://github.com/Azure/azure-quickstart-templates/tree/master/101-acsengine-swarmmode): [**Step by step**](./create-acs-engine-swarm-cluster-step-by-step.md)
 - [Connect to a Docker Swarm cluster](https://docs.microsoft.com/en-us/azure/container-service/container-service-connect): you need a SSH tunnel, so you could use Linux, macOS or Windows with Bash on Ubuntu on Windows or [PuTTY](http://www.putty.org/).
 - [Create an Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-portal)
