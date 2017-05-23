@@ -14,7 +14,7 @@ This content is made to use in [#capsideLAB: Azure Container Services - Docker S
 
 ## **Lab**
 
-- [Full CI/CD pipeline to deploy a multi-container application on Azure Container Service with ACS Engine and Docker Swarm Mode using Visual Studio Team Services](https://github.com/esmsdn/Workshops/blob/master/ACSSwarmVSTS/container-service-docker-swarm-mode-setup-ci-cd-acs-engine.md)
+[Full CI/CD pipeline to deploy a multi-container application on Azure Container Service with ACS Engine and Docker Swarm Mode using Visual Studio Team Services](https://github.com/esmsdn/Workshops/blob/master/ACSSwarmVSTS/container-service-docker-swarm-mode-setup-ci-cd-acs-engine.md)
 
 ## **More labs**
 
