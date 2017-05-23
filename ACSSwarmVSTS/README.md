@@ -14,9 +14,7 @@ This content is made to use in [#capsideLAB: Azure Container Services - Docker S
 
 ## **Lab**
 
-- _Coming soon_
-
-Extra: [connect to ACS swarm cluster](https://github.com/esmsdn/Workshops/blob/master/DockerBirthday/Connect%20to%20ACS%20swarm%20cluster.md)
+- [Full CI/CD pipeline to deploy a multi-container application on Azure Container Service with ACS Engine and Docker Swarm Mode using Visual Studio Team Services](https://github.com/esmsdn/Workshops/blob/master/ACSSwarmVSTS/container-service-docker-swarm-mode-setup-ci-cd-acs-engine.md)
 
 ## **More labs**
 
